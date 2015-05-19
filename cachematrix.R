@@ -1,6 +1,6 @@
 ## These functions create a cacheable matrix that can be used to calculate and
 ## store the inverse such that it only gets calculated once
-##
+## 
 ## Usage:
 ##   Create a cache and pass it a matrix
 ##     cache <- makeCacheMatrix(m)
